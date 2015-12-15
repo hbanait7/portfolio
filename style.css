@@ -5,18 +5,6 @@
 
 /* About Me */
 
-#picture_frame {
-  background-image: url("images/photo.jpg");
-  width: 200px;
-  height: 200px;
-  border: 3px solid white;
-  -moz-border-radius: 50px;
-  -webkit-border-radius: 50px;
-  border-radius: 50px;
-  margin: 0 auto;
-  margin-bottom: 20px;
-}
-
 #about_me_ {
   background-image: url("images/workspace1.jpg");
   background-repeat: no-repeat;
@@ -29,7 +17,7 @@
   border-radius: 10px;
   background-color: black;
   width: 860px;
-  height: 115px;
+  height: 135px;
   margin: 0 auto;
   padding: 10px;
 }
